@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/CMakeFiles/ssl_content-populate"
+		},
+		{
+			"file" : "C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/CMakeFiles/36be8767986b10764a2da298dae24033/ssl_content-populate.rule"
+		},
+		{
+			"file" : "C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/CMakeFiles/09152437191f852789dcc307375b4089/ssl_content-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/CMakeFiles/8c4aecfe37f3f38f71872e2e818d4fe8/ssl_content-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/CMakeFiles/8c4aecfe37f3f38f71872e2e818d4fe8/ssl_content-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/CMakeFiles/8c4aecfe37f3f38f71872e2e818d4fe8/ssl_content-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/CMakeFiles/8c4aecfe37f3f38f71872e2e818d4fe8/ssl_content-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/CMakeFiles/8c4aecfe37f3f38f71872e2e818d4fe8/ssl_content-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/CMakeFiles/8c4aecfe37f3f38f71872e2e818d4fe8/ssl_content-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/CMakeFiles/8c4aecfe37f3f38f71872e2e818d4fe8/ssl_content-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/CMakeFiles/8c4aecfe37f3f38f71872e2e818d4fe8/ssl_content-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ssl_content-populate"
+		],
+		"name" : "ssl_content-populate"
+	}
+}

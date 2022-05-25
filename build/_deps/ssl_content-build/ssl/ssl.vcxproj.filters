@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\bio_ssl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\d1_lib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\d1_msg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\d1_srtp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\methods.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\packet.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\pqueue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\s3_cbc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\s3_enc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\s3_lib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\s3_msg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_asn1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_cert.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_ciph.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_conf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_err.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_lib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_mcnf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_rsa.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_sess.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_stat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_txt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\ssl_utst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\t1_enc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\t1_lib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\t1_trce.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\tls13_enc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\tls_srp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\record\dtls1_bitmap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\record\rec_layer_d1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\record\rec_layer_s3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\record\ssl3_buffer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\record\ssl3_record.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\record\ssl3_record_tls13.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\statem\extensions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\statem\extensions_clnt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\statem\extensions_cust.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\statem\extensions_srvr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\statem\statem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\statem\statem_clnt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\statem\statem_dtls.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\statem\statem_lib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\statem\statem_srvr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\haost\Desktop\test_openssl\build\_deps\ssl_content-src\ssl\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C1245BAD-3BFE-367D-8BAB-D4E0EB2091A4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\haost\Desktop\test_openssl\build\CMakeFiles\1856d65ea4d30365bef66284a35b5ad8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3418B7FB-E9FD-3990-943A-1F5064B37B92}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

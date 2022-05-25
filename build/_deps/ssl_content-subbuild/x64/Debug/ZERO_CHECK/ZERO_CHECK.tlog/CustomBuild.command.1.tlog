@@ -1,0 +1,10 @@
+^C:\USERS\HAOST\DESKTOP\TEST_OPENSSL\BUILD\_DEPS\SSL_CONTENT-SUBBUILD\CMAKEFILES\36BE8767986B10764A2DA298DAE24033\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild -BC:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/haost/Desktop/test_openssl/build/_deps/ssl_content-subbuild/ssl_content-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
