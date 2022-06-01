@@ -14,13 +14,10 @@
 #include <io.h>
 #include <fcntl.h>
 #include <stdlib.h>
-#include <openssl/rsa.h>
-#include <openssl/pem.h>
 
 #include<stdio.h>
 #include<windows.h>
 
-#include "src/generate.hpp"
 
 int main(int argc, char **argv){
 
@@ -34,7 +31,7 @@ int main(int argc, char **argv){
     std::vector<unsigned char> buffer(std::istreambuf_iterator<char>(input), {});
     std::stringstream ss_;
     for(auto n : buffer)
-       std::cout << n << '\n';
+       std::cout << n << " "  << '\n';
     //    if(n != '\n' || n != ' ')
     //      ss_ << n;
     //      else
