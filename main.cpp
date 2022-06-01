@@ -30,15 +30,8 @@ int main(int argc, char **argv){
     // copies all data into buffer
     std::vector<unsigned char> buffer(std::istreambuf_iterator<char>(input), {});
     std::stringstream ss_;
-    for(auto n : buffer)
-       std::cout << n << " "  << '\n';
-    //    if(n != '\n' || n != ' ')
-    //      ss_ << n;
-    //      else
-    //      {
-    //         std::cout << ss_.str() << '\n';
-    //         ss_.clear();
-    //      }
+    std::string s( buffer.begin(), buffer.end() );
+    std::cout << s << '\n';
     std::ofstream output ("../me2.doc",std::fstream::trunc|std::fstream::binary);
 
     std::copy( 

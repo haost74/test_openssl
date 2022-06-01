@@ -1,18 +1,17 @@
 {
     "tasks": [
         {
-            "type": "cppbuild",
-            "label": "C/C++: cl.exe сборка активного файла",
-            "command": "cl.exe",
+            "type": "shell",
+            "label": "g++.exe build active file",
+            "command": "C:\\MinGW64\\bin\\g++.exe",
             "args": [
-                "/Zi",
-                "/EHsc",
-                "/nologo",
-                "/Fe${fileDirname}\\${fileBasenameNoExtension}.exe",
-                "${file}"
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
-                "cwd": "${fileDirname}"
+                "cwd": "C:\\MinGW64\\bin"
             },
             "problemMatcher": [
                 "$msCompile"
