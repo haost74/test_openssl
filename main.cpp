@@ -28,10 +28,10 @@ int main(int argc, char **argv){
   std::ifstream input( "../test.txt", std::ios::binary );
 
     // copies all data into buffer
-    std::vector<unsigned char> buffer(std::istreambuf_iterator<char>(input), {});
-    std::stringstream ss_;
-    std::string s( buffer.begin(), buffer.end() );
-    std::cout << s << '\n';
+    //std::vector<unsigned char> buffer(std::istreambuf_iterator<char>(input), {});
+    // std::stringstream ss_;
+    // std::string s( buffer.begin(), buffer.end() );
+    // std::cout << s << '\n';
     std::ofstream output ("../me2.doc",std::fstream::trunc|std::fstream::binary);
 
     std::copy( 
