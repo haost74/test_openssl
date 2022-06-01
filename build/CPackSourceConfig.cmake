@@ -11,7 +11,7 @@
 
 
 set(CPACK_BUILD_SOURCE_DIRS "C:/Users/haost/Desktop/test_openssl;C:/Users/haost/Desktop/test_openssl/build")
-set(CPACK_CMAKE_GENERATOR "Visual Studio 17 2022")
+set(CPACK_CMAKE_GENERATOR "MSYS Makefiles")
 set(CPACK_COMPONENT_UNSPECIFIED_HIDDEN "TRUE")
 set(CPACK_COMPONENT_UNSPECIFIED_REQUIRED "TRUE")
 set(CPACK_DEFAULT_PACKAGE_DESCRIPTION_FILE "C:/Program Files/CMake/share/cmake-3.21/Templates/CPack.GenericDescription.txt")

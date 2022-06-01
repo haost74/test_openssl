@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.8)
 project(app)
 
-
+#function gcmake {cmake .. -G "MinGW Makefiles"}
 
 #set(OPENSSL_USE_STATIC_LIBS ON)
 #set(OPENSSL_USE_STATIC_LIBS OFF)
